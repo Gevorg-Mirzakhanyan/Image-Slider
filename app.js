@@ -26,3 +26,5 @@ const next = document.querySelector('.right-arrow')
 // let images = {
 // 'url()'
 // }
+
+//next
